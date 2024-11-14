@@ -1,0 +1,4 @@
+../component/serial_manager/serial_port_uart.c:128:25:Serial_UartInit	56	static
+../component/serial_manager/serial_port_uart.c:199:25:Serial_UartDeinit	24	static
+../component/serial_manager/serial_port_uart.c:266:25:Serial_UartWrite	32	static
+../component/serial_manager/serial_port_uart.c:280:25:Serial_UartRead	32	static

@@ -1,0 +1,13 @@
+../utilities/fsl_debug_console.c:317:10:DbgConsole_ReadOneCharacter	32	static
+../utilities/fsl_debug_console.c:388:5:DbgConsole_SendData	24	static
+../utilities/fsl_debug_console.c:455:5:DbgConsole_SendDataReliable	32	static
+../utilities/fsl_debug_console.c:526:5:DbgConsole_ReadLine	24	static
+../utilities/fsl_debug_console.c:581:5:DbgConsole_ReadCharacter	24	static
+../utilities/fsl_debug_console.c:609:13:DbgConsole_PrintCallback	32	static
+../utilities/fsl_debug_console.c:630:10:DbgConsole_Init	64	static
+../utilities/fsl_debug_console.c:761:10:DbgConsole_Deinit	8	static
+../utilities/fsl_debug_console.c:792:40:DbgConsole_Flush	8	static
+../utilities/fsl_debug_console.c:831:5:DbgConsole_Printf	168	static
+../utilities/fsl_debug_console.c:851:5:DbgConsole_Putchar	16	static
+../utilities/fsl_debug_console.c:858:5:DbgConsole_Scanf	40	static
+../utilities/fsl_debug_console.c:910:5:DbgConsole_Getchar	16	static

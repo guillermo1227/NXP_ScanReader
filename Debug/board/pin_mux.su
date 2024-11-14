@@ -1,0 +1,4 @@
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_clock.h:527:20:CLOCK_EnableClock	24	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:36:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:61:6:BOARD_InitPins	8	static

@@ -1,0 +1,14 @@
+../amazon-freertos/freertos/portable/port.c:103:14:pxPortInitialiseStack	24	static
+../amazon-freertos/freertos/portable/port.c:127:13:prvTaskExitError	16	static
+../amazon-freertos/freertos/portable/port.c:152:6:SVC_Handler	8	static
+../amazon-freertos/freertos/portable/port.c:159:6:vPortStartFirstTask	0	static
+../amazon-freertos/freertos/portable/port.c:190:12:xPortStartScheduler	8	static
+../amazon-freertos/freertos/portable/port.c:233:6:vPortEndScheduler	8	static
+../amazon-freertos/freertos/portable/port.c:247:6:vPortYield	8	static
+../amazon-freertos/freertos/portable/port.c:259:6:vPortEnterCritical	8	static
+../amazon-freertos/freertos/portable/port.c:268:6:vPortExitCritical	8	static
+../amazon-freertos/freertos/portable/port.c:279:10:ulSetInterruptMaskFromISR	0	static
+../amazon-freertos/freertos/portable/port.c:297:6:vClearInterruptMaskFromISR	0	static
+../amazon-freertos/freertos/portable/port.c:314:6:PendSV_Handler	0	static
+../amazon-freertos/freertos/portable/port.c:363:6:SysTick_Handler	16	static
+../amazon-freertos/freertos/portable/port.c:384:6:prvSetupTimerInterrupt	8	static

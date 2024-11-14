@@ -1,0 +1,10 @@
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_clock.h:697:20:CLOCK_SetSimSafeDivs	8	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_clock.h:921:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:74:13:CLOCK_CONFIG_FllStableDelay	16	static
+../board/clock_config.c:89:6:BOARD_RfOscInit	16	static
+../board/clock_config.c:135:6:BOARD_InitOsc0	16	static
+../board/clock_config.c:152:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:209:6:BOARD_BootClockRUN	24	static
+../board/clock_config.c:276:6:BOARD_BootClockVLPR	8	static

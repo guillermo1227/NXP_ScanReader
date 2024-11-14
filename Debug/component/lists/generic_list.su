@@ -1,0 +1,15 @@
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_common.h:509:28:DisableGlobalIRQ	16	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_common.h:540:24:EnableGlobalIRQ	24	static
+../component/lists/generic_list.c:17:22:LIST_Scan	24	static
+../component/lists/generic_list.c:55:6:LIST_Init	16	static
+../component/lists/generic_list.c:78:15:LIST_GetList	16	static
+../component/lists/generic_list.c:99:15:LIST_AddTail	24	static
+../component/lists/generic_list.c:150:15:LIST_AddHead	24	static
+../component/lists/generic_list.c:200:23:LIST_RemoveHead	24	static
+../component/lists/generic_list.c:245:23:LIST_GetHead	16	static
+../component/lists/generic_list.c:265:23:LIST_GetNext	16	static
+../component/lists/generic_list.c:285:23:LIST_GetPrev	16	static
+../component/lists/generic_list.c:305:15:LIST_RemoveElement	24	static
+../component/lists/generic_list.c:360:15:LIST_AddPrevElement	32	static
+../component/lists/generic_list.c:412:10:LIST_GetSize	16	static
+../component/lists/generic_list.c:431:10:LIST_GetAvailableSize	16	static

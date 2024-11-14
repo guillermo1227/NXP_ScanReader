@@ -1,0 +1,16 @@
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_common.h:509:28:DisableGlobalIRQ	16	static
+C:\Users\Usuario1\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmkw38_CanBus_Reader_2_flexcan_interrupt_transfer\drivers/fsl_common.h:540:24:EnableGlobalIRQ	24	static
+../component/serial_manager/serial_manager.c:267:32:SerialManager_StartWriting	40	static
+../component/serial_manager/serial_manager.c:308:32:SerialManager_StartReading	40	static
+../component/serial_manager/serial_manager.c:780:32:SerialManager_Write	32	static
+../component/serial_manager/serial_manager.c:797:32:SerialManager_Read	32	static
+../component/serial_manager/serial_manager.c:815:25:SerialManager_Init	32	static
+../component/serial_manager/serial_manager.c:936:25:SerialManager_Deinit	32	static
+../component/serial_manager/serial_manager.c:998:25:SerialManager_OpenWriteHandle	32	static
+../component/serial_manager/serial_manager.c:1025:25:SerialManager_CloseWriteHandle	32	static
+../component/serial_manager/serial_manager.c:1056:25:SerialManager_OpenReadHandle	32	static
+../component/serial_manager/serial_manager.c:1092:25:SerialManager_CloseReadHandle	32	static
+../component/serial_manager/serial_manager.c:1121:25:SerialManager_WriteBlocking	24	static
+../component/serial_manager/serial_manager.c:1131:25:SerialManager_ReadBlocking	24	static
+../component/serial_manager/serial_manager.c:1325:25:SerialManager_EnterLowpower	16	static
+../component/serial_manager/serial_manager.c:1333:25:SerialManager_ExitLowpower	16	static

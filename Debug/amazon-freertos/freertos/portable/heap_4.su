@@ -1,0 +1,7 @@
+../amazon-freertos/freertos/portable/heap_4.c:113:7:pvPortMalloc	32	static
+../amazon-freertos/freertos/portable/heap_4.c:272:6:vPortFree	24	static
+../amazon-freertos/freertos/portable/heap_4.c:320:8:xPortGetFreeHeapSize	8	static
+../amazon-freertos/freertos/portable/heap_4.c:326:8:xPortGetMinimumEverFreeHeapSize	8	static
+../amazon-freertos/freertos/portable/heap_4.c:332:6:vPortInitialiseBlocks	8	static
+../amazon-freertos/freertos/portable/heap_4.c:338:13:prvHeapInit	24	static
+../amazon-freertos/freertos/portable/heap_4.c:386:13:prvInsertBlockIntoFreeList	24	static
